@@ -2,6 +2,7 @@
 
 Hi, I'm Daniel. I do computational geometry/meshing, GIS, and machine learning for earth science applications at [LANL](www.lanl.gov).
 
+[ Website: [daniel-livingston.com](https://www.daniel-livingston.com/) ]<br/>
 [ GitLab: [@daniellivingston](https://gitlab.com/daniellivingston) ]<br/>
 [ Proof of identity: [https://keybase.io/daniellivingston](https://keybase.io/daniellivingston) ]
 
